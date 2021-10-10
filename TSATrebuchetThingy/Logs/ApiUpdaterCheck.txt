@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 10/9/2021 3:58:26 PM : Starting /Users/aislynncross/Desktop/Unity/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 281.425ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 472ms
+candidates check time : 50ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 4:00:50 PM : Starting /Users/aislynncross/Desktop/Unity/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 283.943ms
+moved types parse time: 84ms
+candidates parse time : 1ms
+C# parse time         : 406ms
+candidates check time : 50ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 4:42:31 PM : Starting /Users/aislynncross/Desktop/Unity/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 246.442ms
+moved types parse time: 93ms
+candidates parse time : 1ms
+C# parse time         : 431ms
+candidates check time : 48ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 10/9/2021 4:42:43 PM : Starting /Users/aislynncross/Desktop/Unity/2020.3.18f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 125.821ms
+moved types parse time: 62ms
+candidates parse time : 2ms
+C# parse time         : 384ms
+candidates check time : 40ms
+console write time    : 0ms
+
